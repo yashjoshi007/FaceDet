@@ -2,7 +2,7 @@ import cv2
 import streamlit as st
 
 st.title("FACE Detection")
-result = st.button("Click me")
+result = st.button("Click me once ")
 
 st.write(result)
 
